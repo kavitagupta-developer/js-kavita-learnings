@@ -20,3 +20,10 @@ console.log(booleanIsLoggedIn)
 // 1 => true ; 0 => false
 // "" => false
 //"hetish" => true
+
+
+// *****************************OPERATION******************************
+
+let value =3;
+let negValue = -value
+console.log(negValue);
